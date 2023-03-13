@@ -1,4 +1,4 @@
-package main
+package trie
 
 import "github.com/ethereum/go-ethereum/rlp"
 

@@ -1,4 +1,4 @@
-module merkle-patrica-trie
+module github.com/0xsharma/merkle-patricia-trie
 
 go 1.18
 
